@@ -1,0 +1,37 @@
+.title {
+    padding: 0px 0px 10px 0px;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    margin-top: 6px!important;
+  }
+  .paper {
+    padding: 20px 50px 20px 20px;
+  }
+  .paperPO {
+    margin-top: 20px !important;
+    padding: 20px 50px 20px 20px;
+  }
+  .label {
+    float: right;
+    padding: 15px;
+    font-size: 13px !important;
+    font-weight: 600 !important;
+  }
+  .paddingInput {
+    padding-bottom: 10px;
+  }
+  .input {
+    height: 40px !important;
+  }
+  .paperTable {
+    margin-top: 20px !important;
+  }
+  .buttonSearch {
+    background-color: #1976d2 !important;
+    color: #fff !important;
+    text-transform: none !important;
+    margin-left: 10px !important;
+  }
+  .button {
+    text-align: center;
+  }

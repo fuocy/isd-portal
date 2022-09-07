@@ -1,0 +1,44 @@
+.icon {
+    margin-left: 0px !important;
+}
+
+.menuName {
+    margin-left: 20px !important;
+    font-size: 14px!important;
+
+}
+
+.pageName {
+
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    overflow-wrap: break-word;
+}
+
+.iconExpand {
+    margin-left: 30px;
+    margin-top: 5px
+}
+
+.collapse {
+    overflow-wrap: break-word;
+}
+.list{
+    padding-right: 5px!important;
+    color: #b8c7ce;
+    background-color: #222d32
+}
+.list:hover{
+    color:#fff;
+    background-color: #1e282c;
+}
+.list:active{
+    color:#fff;
+    background-color: #1e282c;
+}
+.textMenu{
+    font-size: 14px;
+}

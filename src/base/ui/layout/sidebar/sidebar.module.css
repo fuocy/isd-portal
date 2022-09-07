@@ -1,0 +1,42 @@
+
+.drawerOpen{
+
+    background-color: #222d32!important;  
+}
+.drawerClose{
+  
+     
+          
+      background-color: #222d32!important;  
+
+}
+.sidebarList{
+    background-color: "#222d32",
+}
+.mobileBackButton {
+    margin-top: 12px;
+    margin-left: 20px;
+
+  }
+.divToolbar{
+    min-height: 52px!important;
+
+}
+.sidebarList{
+    /* background-color: #222d32; */
+}
+.padding {
+    padding-bottom: '20px',
+  }
+.drawer {
+    width: 230;
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+  .fakeToolbar {
+    /* ...theme.mixins.toolbar, */
+    /* margin-top: 25, */
+  }
+  .textMenu{
+    font-size: 14px!important;
+  }

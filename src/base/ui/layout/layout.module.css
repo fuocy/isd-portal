@@ -1,0 +1,10 @@
+.app {
+  text-align: left;
+}
+
+.content {
+  padding: 75px 30px 50px 70px;
+  background-color: rgb(246, 247, 255)!important;
+  overflow-x: hidden;
+}
+

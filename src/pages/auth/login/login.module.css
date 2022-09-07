@@ -1,0 +1,45 @@
+.background{
+    background-image: url("assets/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.paperWrapper{
+    width: 495px;
+    height: 640px;
+    padding: 50px 80px 70px 80px;
+    margin: 100px auto;
+  
+}
+.paperForm{
+    padding-top: 1px;
+    padding-bottom: 2px  
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.title{
+   text-align: center;
+   font-weight: 600!important;
+   font-size: 24px !important;
+   line-height: 33px;
+
+}
+
+.input{
+    border-radius: 48px !important;
+    background: #F7FAFB!important
+}
+.label{
+    font-weight: 700 !important;
+    padding-bottom: 10px !important; 
+
+}
+.button{
+    background: #0052cc !important;
+    border-radius: 40px !important;
+    color: #fff !important;
+    height: 48px !important;
+}
